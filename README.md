@@ -1,21 +1,21 @@
 # Ahoy-OpenDTU-PCB
 PCB's Reference Board 3.1 for AHOY and OpenDTU
 
+![grundplatine](https://user-images.githubusercontent.com/128978195/233839727-f152b595-b036-460b-bcde-d29d8a39294e.jpg)
 
 
 ## **- PCB**
 
 The board is designed for AHOY & OPEN DTU software.
 You will find the project here:
-[- Ahoy](https://github.com/lumapu/ahoy) 
-[- OpenDTU](https://github.com/tbnobody/OpenDTU)
+- [Ahoy](https://github.com/lumapu/ahoy) 
+- [OpenDTU](https://github.com/tbnobody/OpenDTU)
 
 This board is designed for 230V or 5V.
 The nRF has a theoretical range of 2Km.
 If there is good W-LAN reception in the vicinity, an ESP32-WROOM-32D is sufficient.
 If this is not the case, an ESP32-WROOM-32U should be used.
 Properly assembled with a DK-0400, the DTU is min. IP64
-
 
 
 ## **- Spec**
@@ -43,8 +43,7 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 - 1x female connector 2x8 Gold plated
 - 2x male header 1x4 Gold plated
 
-### **Assignment:**
-- NRF Assignment:
+### **NRF Assignment:**
 - CSN = IO5
 - MOSI = IO23
 - IRQ = IO16
@@ -122,8 +121,16 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 ### **Epaper Dispaly:**
 - #13.0 Epaper 1.54" by Waveshare
 
+ ![5VUSB](https://user-images.githubusercontent.com/128978195/233839863-2da0a462-f2bb-4c8b-a733-295cf00c2d24.jpg)
+ ![5Vextern](https://user-images.githubusercontent.com/128978195/233839870-f2748273-152f-439c-8eb7-daa69d06c2ab.jpg)
+ ![230V](https://user-images.githubusercontent.com/128978195/233839874-fc1e40e9-9f51-4bfe-b1ef-1f40ffc6fa0d.jpg)
 
-  
+
+## **the finished DTU 3.0:**
+The DTU can be look like this:
+
+![finshed3 0](https://user-images.githubusercontent.com/128978195/233840594-1e035af2-6614-4f36-8047-13cd7dd13ef5.jpg)
+
 
 ## **- Software:**
 
