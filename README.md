@@ -20,7 +20,7 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 
 ## **- Spec**
 
-# **Connections:**
+### **Connections:**
 - I2C for an Oled Display (0.96" or 1,3") 
 - HSPI for an Epaper (1.54") from Waveshare
 - UART
@@ -33,7 +33,7 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 - Power supply 230V for MeanWell IRM-03-5
 - Fuse holder for STV PTF/45
 
-# **Board Info:**
+### **Board Info:**
 - Base Material FR4
 - Layers 2
 - Color Green
@@ -43,7 +43,7 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 - 1x female connector 2x8 Gold plated
 - 2x male header 1x4 Gold plated
 
-# **Assignment:**
+### **Assignment:**
 - NRF Assignment:
 - CSN = IO5
 - MOSI = IO23
@@ -52,11 +52,11 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 - SCK = IO18
 - CE = IO4
 
-# **I2C Assignment:**
+### **I2C Assignment:**
 - SCL = IO22
 - SDA = IO21
 
-# **HSPI Assignment:**
+### **HSPI Assignment:**
 - MOSI = IO13
 - CLK = IO14
 - CS = IO15
@@ -64,7 +64,7 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 - RST = IO26
 - MISO = IO12
 
-# **LED Assignment:**
+### **LED Assignment:**
 - IO34 & IO35
 
 
@@ -74,7 +74,7 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 - #1.0 Housing Hensel DK-0400
 - #1.1 2x device screws
 
-# **ESP32:**
+### **ESP32:**
 - #2.0 ESP32-WROOM-32D
 - or
 - #3.0 ESP32-WROOM-32U
@@ -82,12 +82,12 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 - #3.2 cable IPEX to SMA male
 - #3.3 cable gland M20
 
-# **nRF24L01+:**
+### **nRF24L01+:**
 - #4.0 E01-ML01DP5
 - #4.1 Antenna 3DBi Female
 - #4.2 Cable gland M20
 
-# **Power supply connection:**
+### **Power supply connection:**
 - #5.0 USB cable for ESP (5V)
 - or
 - #6.0 USB cable for terminal (5V)
@@ -103,23 +103,23 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 - #7.7 6x 1,5mm ferrules
 - #7.8 Betteri BC01
 
-# **Voltage LEDs:**
+### **Voltage LEDs:**
 - #8.0 LED Nichia NSPG500DS-G Green 
 - #8.1 Resistance min. 91OHm
 
-# **Status LED's:**
+### **Status LED's:**
 - #9.0 LED 5034Y1C-BUB-E Yellow
 - #9.1 Resistance min. 194Ohm
 - #10.0 LED 5034G3C-BUA-B Green
 - #10.1 Resistance min. 120Ohm
 
-# **Oled Display:**
+### **Oled Display:**
 - #11.0 Oled Display 0.96"
 - #11.1 4x Jumper wire Female-Female
 - #12.0 Oled Display 1,3"
 - #12.1 4x Jumper wire Female-Female
 
-# **Epaper Dispaly:**
+### **Epaper Dispaly:**
 - #13.0 Epaper 1.54" by Waveshare
 
 
