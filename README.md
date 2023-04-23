@@ -3,7 +3,7 @@ PCB's Reference Board 3.1 for AHOY and OpenDTU
 
 
 
-#**- PCB**
+# **- PCB**
 
 The board is designed for AHOY & OPEN DTU software.
 You will find the project here:
@@ -18,7 +18,7 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 
 
 
-#**- Spec**
+# **- Spec**
 
 **Connections:**
 - I2C for an Oled Display (0.96" or 1,3") 
@@ -69,7 +69,7 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 
 
 
-#**- Material list:**
+# **- Material list:**
 
 - #1.0 Housing Hensel DK-0400
 - #1.1 2x device screws
@@ -125,7 +125,7 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 
   
 
-#**- Software:**
+# **- Software:**
 
 [- Ahoy](https://github.com/lumapu/ahoy) 
 [- OpenDTU](https://github.com/tbnobody/OpenDTU)
