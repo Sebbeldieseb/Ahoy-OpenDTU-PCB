@@ -75,7 +75,7 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 
 ### **ESP32:**
 - #2.0 ESP32-WROOM-32D
-- or
+- **or**
 - #3.0 ESP32-WROOM-32U
 - #3.1 Antenna 3DBi Female
 - #3.2 cable IPEX to SMA male
@@ -88,11 +88,11 @@ Properly assembled with a DK-0400, the DTU is min. IP64
 
 ### **Power supply connection:**
 - #5.0 USB cable for ESP (5V)
-- or
+- **or**
 - #6.0 USB cable for terminal (5V)
 - #6.1 Terminal RM5.0 (2 ports)
 - #6.2 Cable gland
-- or
+- **or**
 - #7.1 Terminal RM5.0
 - #7.2 Power supply IRM-03-5 Meanwell
 - #7.3 Fuse STV PTF/45
